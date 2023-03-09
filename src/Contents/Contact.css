@@ -1,0 +1,100 @@
+.c-button{
+    display: flex;
+    flex-direction: column;
+    width: 7rem;
+    height: 3rem;
+    margin-top: 30px;
+    margin-left: 216px;
+    background: rgb(255, 204, 110);
+    box-shadow: 0px 5px 15px;
+    color: rgb(86, 84, 84) ;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-button:hover{
+    background: white;
+    cursor: pointer;
+    color: orange;
+}
+
+
+
+.con{
+    margin: 150px;
+    padding-top: 5%;
+
+    font-size: 1rem;
+    text-align: center;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    margin-bottom: 100px;
+    border-top: 0.3rem solid orange;
+}
+
+
+.c-right{
+    position: absolute;
+    z-index: 1;
+    left: -47%;
+    top: -80%;
+}
+
+
+
+
+.text{
+    padding-left: 0;
+    padding-right: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.text1{
+    margin-top: 21px;
+    padding-left: 0;
+    padding-right: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.text2{
+    width: 692px;
+    margin-top: 23px;
+}
+
+.sub{
+    margin-top: 14px;
+}
+
+.m1{
+    margin-left: -546px;
+    width: 571px;
+}
+.m2{
+    width: 571px;
+}
+
+.alpha{
+    margin-left: 741px;
+    margin-top: -315px;
+    text-align: left;
+}
+
+.bt{
+    width: 174px;
+    padding: 0px;
+    width: 174px;
+    padding: 0px;
+    margin-left: -575px;
+}
+
+.m3{
+    margin-left: -575px;
+}
+.m4{
+    margin-left: -575px;
+}

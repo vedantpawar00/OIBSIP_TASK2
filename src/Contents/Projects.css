@@ -1,0 +1,11 @@
+.proj{
+    margin: 150px;
+    padding-top: 5%;
+
+    font-size: 1rem;
+    text-align: center;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    margin-bottom: 100px;
+    border-top: 0.3rem solid orange;
+}

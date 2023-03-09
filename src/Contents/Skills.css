@@ -1,0 +1,14 @@
+
+.skill{
+    margin: 60px;
+    padding-top: 5%;
+}
+
+.h-skill{
+    font-size: 5rem;
+    text-align: center;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    margin-bottom: 100px;
+    border-top: 0.3rem solid orange;
+}

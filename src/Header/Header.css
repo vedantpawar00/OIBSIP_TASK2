@@ -1,0 +1,30 @@
+:root{
+    --primary-white: #fff;
+    --primary-orange: rgb(255, 187, 59);
+}
+
+.logo
+{
+    width: 5rem;
+    max-height: 5rem;
+}
+
+nav a.navlink{
+    font-weight: 1000;
+    letter-spacing: 0.0400rem;
+    cursor: pointer;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-top: 0.3rem solid var(--primary-orange);
+}
+
+nav a.navlink:hover{
+    background: white;
+    cursor: pointer;
+    color: orange;
+    border-radius: 20px;
+}
+
+nav b.navbar{
+    max-width: 200rem;
+}
